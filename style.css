@@ -1,0 +1,164 @@
+body
+{
+	background-image: url("images/background.png");
+	position: fixed;
+	top:0;
+	left:0;
+	min-width:100%;
+	max-height: 100%;
+}
+div.header1
+{
+	float: left;
+	background-color: black;
+	margin-left: auto;
+	margin-right: auto;
+	width: 968px;
+	height: 25px;	
+	text-indent: 5px;
+	padding: 5px 0px 0 0px;
+}
+div.header2
+{
+	float: right;
+	background-color: black;
+	margin-left: 1px;
+	margin-right: 1px;
+	width: 100px;
+	height: 25px;
+	text-align: center;	
+ 	padding: 5px 0px 0 0px;
+}
+div.header3
+{
+	float: right;
+	background-color: black;
+	margin-left: auto;
+	margin-right: auto;
+	width: 101px;
+	height: 25px;
+	text-align: center;
+	padding: 5px 0px 0 0px;	
+}
+div.corps
+{
+	border-color: black;
+	border-style: solid;
+	background-color: white;
+	height: 1699px;
+    background-image:url("images/background.png");
+}
+div.banniere
+{
+	position: center;
+	margin-left: auto;
+	margin-right: auto;
+	height: 200px;
+	border-color: black;
+	border-style: solid;
+	font-size: 72;
+	text-align: center;
+}
+div.banniere.p
+{
+	text-decoration: underline;
+	
+}
+div.sommaire
+{
+	background-color : lightgrey;
+	width : 255px;
+	height : 1500px;
+	float : left;
+}
+div.news
+{
+	background-color : white;
+	width : 471px;
+	height : 1500px;
+	float : left;
+}
+div.news2
+{
+	background-color : white;
+	width : 600px;
+	height : 1500px;
+	float : right;
+}
+div.faq 
+{
+	margin-left: 30px;
+	margin-right: 30px;
+}
+div.infos
+{
+	background-color : lightgrey;
+	width: 294px;
+	height : 1500px;
+	float : right;
+}
+div.connect
+{
+	width: 235px;
+	height: 150px;
+	background-color: #bbbbbb;
+	position: absolute;
+	margin-left: 10px;
+	margin-top: 25px;
+	border-color: black;
+	border-style: solid;
+	border-width: 1px;
+}
+div.som1
+{
+	width: 235px;
+	background-color: #bbbbbb;
+	position: absolute;
+	margin-left: 10px;
+	margin-top: 200px;
+	border-color: black;
+	border-style: solid;
+	border-width: 1px;
+}
+div.som2
+{
+	width: 235px;
+	background-color: #bbbbbb;
+	position: absolute;
+	margin-left: 10px;
+	margin-top: 325px;
+	border-color: black;
+	border-style: solid;
+	border-width: 1px;
+}
+div.sconnect
+{
+	background-color: black;
+	color: white;
+	height: 25px;	
+	text-indent: 5px;
+	padding: 5px 0px 0 0px;
+}
+div.ssom1
+{
+	background-color: black;
+	color: white;
+	height: 25px;	
+	text-indent: 5px;
+	padding: 5px 0px 0 0px;
+}
+div.ssom2
+{
+	background-color: black;
+	color: white;
+	height: 25px;	
+	text-indent: 5px;
+	padding: 5px 0px 0 0px;
+}
+h4.admin
+{
+	text-indent: 100px;
+}
+p.admin{
+	padding-left: 175px;
+}
